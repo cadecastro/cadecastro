@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cadecastro
-- 👀 I’m interested in Math, basic Physics and Mechanical Engineering education
+- 👀 I’m interested in Math, basic Physics and Mechanical Engineering.
 - 🌱 I’m currently learning Python
 - 📫 Reach me at ingenieria@cadecastro.com
 
