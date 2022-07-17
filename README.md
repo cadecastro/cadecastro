@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carlos Armando De Castro (cadecastro.com)
-- 👀 I’m interested in Mechanical Engineering, Math, basic Physics and  Data Analysis.
-- 🌱 I’m currently learning Python.
-- 📫 Reach me at ingenieria@cadecastro.com
+- 👀 I’m interested in Mechanical Engineering, Data Analysis, Applied Math, basic Physics.
+- 📫 Reach me at analysis@cadecastro.com
 
 <!---
 cadecastro/cadecastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
