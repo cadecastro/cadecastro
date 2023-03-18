@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos Armando De Castro (cadecastro.com)
-- 👀 I’m interested in Mechanical Engineering, Data Analysis, Applied Math, basic Physics.
+- 👀 I’m interested in Data Analysis, Finance, Mechanical Engineering, Applied Math, classical Physics.
 - 📫 Reach me at analysis@cadecastro.com
 
 <!---
